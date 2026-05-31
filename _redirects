@@ -1,0 +1,6 @@
+# Redirect old GoDaddy URLs to new pages
+/anyplace-modules          /modules/               301
+/what-is-anyplace-life     /how-you-own-it/        301
+/anyplace-ecosystem        https://adaptablestructures.com/anyplace-ecosystem/  301
+/gallery                   /modules/               301
+/contact-us                /contact/               301
