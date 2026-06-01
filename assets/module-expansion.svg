@@ -42,12 +42,10 @@
 <text font-family="DM Serif Display,serif" font-size="14" font-weight="400" fill="#3d3d3a" x="56" y="246">Stage 2 — Wall removed · second module added</text>
 <!-- Left module -->
 <rect x="56" y="262" width="150" height="116" fill="#f7f4ef" stroke="#1a1a18" stroke-width="4"/>
-<!-- Right wall dashed -->
-<line x1="206" y1="262" x2="206" y2="378" stroke="#9a9a94" stroke-width="2" stroke-dasharray="6 4"/>
+
 <!-- Right module -->
-<rect x="206" y="262" width="150" height="116" fill="#eaf3de" stroke="#1a1a18" stroke-width="4"/>
-<!-- Join line green -->
-<line x1="206" y1="262" x2="206" y2="378" stroke="#639922" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<rect x="206" y="262" width="150" height="116" fill="#f7f4ef" stroke="#1a1a18" stroke-width="4"/>
+
 <g fill="#639922" opacity="0.9">
   <rect x="53"  y="259" width="8" height="8" rx="1"/>
   <rect x="199" y="259" width="8" height="8" rx="1"/>
@@ -59,7 +57,7 @@
 <text font-family="DM Serif Display,serif" font-size="15" fill="#1a1a18" text-anchor="middle" x="203" y="316">330 sq ft</text>
 <text font-family="DM Sans,sans-serif" font-size="11" fill="#6b6b66" text-anchor="middle" x="203" y="332">(30.7 m²)</text>
 <text font-family="DM Sans,sans-serif" font-size="11" fill="#6b6b66" text-anchor="middle" x="203" y="348">2 modules · 1 room</text>
-<text font-family="DM Sans,sans-serif" font-size="10" fill="#9a9a94" text-anchor="middle" x="206" y="256">wall removed</text>
+<text font-family="DM Sans,sans-serif" font-size="10" fill="#639922" text-anchor="middle" x="206" y="256">open — no wall between modules</text>
 <text font-family="DM Sans,sans-serif" font-size="10" fill="#27500A" text-anchor="middle" x="281" y="392">2-wall module</text>
 <line x1="56" y1="400" x2="356" y2="400" stroke="#9a9a94" stroke-width="0.8" marker-end="url(#arr-exp)" marker-start="url(#arr-exp)"/>
 <text font-family="DM Sans,sans-serif" font-size="11" fill="#9a9a94" text-anchor="middle" x="206" y="414">29.4 ft (8960mm)</text>
